@@ -54,3 +54,31 @@ th {
 .lightblue {
     background-color: #33cccc;
 }
+
+#footer1 {
+    background-image: url(../img/monitor.jpg);
+    padding-top: 2px;
+    padding-left: 4px;
+    height: 200px;
+    width: 200px;
+    background-position: center; 
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+    font-weight: bold;
+}
+
+#footer2 {
+    background-image: url(../img/graph.jpg);
+    padding-top: 2px;
+    padding-left: 4px;
+    margin-top: 5px;
+    height: 200px;
+    width: 200px;
+    background-position: center; 
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+    font-weight: bold;
+}
+
