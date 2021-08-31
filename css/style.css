@@ -39,3 +39,18 @@ ul {
 .evidenziatore {
     background-color: yellow;
 }
+
+table {
+    border-collapse: collapse;
+}
+
+th {
+    background-color: #4d79ff;
+    text-align: left;
+    color: white;
+    padding-right: 175px;
+}
+
+.lightblue {
+    background-color: #33cccc;
+}
