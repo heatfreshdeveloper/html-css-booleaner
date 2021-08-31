@@ -1,0 +1,13 @@
+
+
+#logo {
+    color: white;
+    font-family: 'Roboto Slab', serif;
+    padding-top: 10px;
+    text-shadow: 1px 1px 3px black;
+    background-image: url(../img/pattern.png);
+    background-color: #4d79ff;
+    background-size: 300px, 275px;
+    background-repeat: repeat;
+    height: auto;
+}
