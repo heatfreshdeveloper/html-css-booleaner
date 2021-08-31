@@ -12,6 +12,9 @@
     height: auto;
 }
 
+img {
+    padding-bottom: 0;
+}
 .grey {
     color: grey;
 }
@@ -22,4 +25,8 @@
 
 #date {
     font-size: small;
+}
+
+.photo1 {
+    font-size: x-small;
 }
