@@ -11,3 +11,15 @@
     background-repeat: repeat;
     height: auto;
 }
+
+.grey {
+    color: grey;
+}
+
+#logo-bool{
+    color: #33cccc;
+}
+
+#date {
+    font-size: small;
+}
